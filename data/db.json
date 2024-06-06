@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "1",
-      "usuario": "John Doe",
-      "email": "john.due@gmail.com"
+      "user": "Sebastian C",
+      "email": "sebastianc@gmail.com"
     }
   ],
   "heroes": [
@@ -167,6 +167,15 @@
       "first_appearance": "ActionComic#1",
       "characters": "Bonina",
       "alt_img": "https://i.pinimg.com/736x/ac/cf/4a/accf4ae2cd2165f15a421d9bf8f11c18.jpg"
+    },
+    {
+      "id": "",
+      "superhero": "Super Cast",
+      "publisher": "DC Comics",
+      "alter_ego": "juanete",
+      "first_appearance": "dccomicde casa01",
+      "characters": "ActionComic#1",
+      "alt_img": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
